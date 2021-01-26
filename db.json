@@ -1,0 +1,25 @@
+{
+    "herbs": [
+        {
+            "id": 0,
+            "herb": "Basil",
+            "treatment": ["Bronchitis", "Headache", "Migraine", "Digestive Aid", "Mouth Ulcers", "Gum Infections"],
+            "properties": ["Aphrodisiac", "Stomachic (Digestive)", "Tonic", "Skincare"],
+            "uses": ["Hot Compress", "Cold Compress", "Massage", "Bath", "Mouthwash", "Vaporise"],
+            "blendWith": ["Lavender"],
+            "latin": "Ocymum Basilicum",
+            "warning": ["Irritates sensitive skin"]
+        },
+        {
+            "id": 1,
+            "herb": "Corriander",
+            "treatment": ["Stimulates Appetite", "Analgesic", "Rheumatic Pains", "Aids Digestion", "Flatulence"],
+            "properties": ["Aphrodisiac","Relaxant", "Tonic", "Skincare"],
+            "uses": ["Massage"],
+            "blendWith": [],
+            "latin": "Coriandrum Sativum",
+            "warning": []
+        }
+
+    ]
+}
