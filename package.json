@@ -1,0 +1,24 @@
+{
+  "name": "aromatherapy-api",
+  "version": "1.0.0",
+  "description": "aromatherapy api to store data i want to use for a future project.",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelw19/aromatherapy-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelw19/aromatherapy-api/issues"
+  },
+  "homepage": "https://github.com/noelw19/aromatherapy-api#readme"
+}
